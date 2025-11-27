@@ -1,8 +1,10 @@
-## Exp 1 Mode Characteristics of Fiber Optic Cable
+
+# Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
+---
 
 ## 🧰 EQUIPMENTS REQUIRED
 1. LASER Source (633 nm – 1mW)  
@@ -10,6 +12,9 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
+
+---
+
 
 ## 📚 THEORY
 
@@ -27,6 +32,8 @@ When V < 2.045, then only a single mode may propagate in the fiber waveguide. Th
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
 
+---
+
 ## 🧪 PROCEDURE
 
 1. Place the optical breadboard on a flat surface.
@@ -40,24 +47,25 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 9. Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
 10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 
+---
+
+
 ## 📊 OBSERVATION AND CALCULATION
 
-## Tabulation
-```
-S.No	   LCM	   WCM	   NA
-1	      2.5	   0.3	   0.059
-```
-## calculation
+- 
+Parameter of given fiber are,
+A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
+From fig. shows only 4 LP modes propagates.
+Total number of modes = V2 / 2 = 4.912 / 2
 
-<img width="280" height="208" alt="image" src="https://github.com/user-attachments/assets/67210885-b96f-4898-9d83-9625d90c1ac2" />
+---
+## TABULATION
 
-<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/8d7a1f09-4b7b-446f-b464-d1b6b3937d71" />
+![Optical communication modes](https://github.com/user-attachments/assets/25624d27-9bfb-452e-b2f4-31996a3cf2db)
 
-<img width="831" height="353" alt="image" src="https://github.com/user-attachments/assets/ffaa5b57-d25b-44b4-b39b-b4b3416f5662" />
+## RESULT
 
-<img width="796" height="353" alt="image" src="https://github.com/user-attachments/assets/a8c0da3f-445d-4169-95dc-bbdc3f5ed3e9" />
+Thus, the mode characteristics of fibre optic cable and the lower order linearly polarized modes are studies and observed.
 
 
 
-## Result
-Thus the mode characteristics of fibre optic cable is verified and output is studied succesfully
